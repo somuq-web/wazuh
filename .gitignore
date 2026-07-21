@@ -1,0 +1,6 @@
+.env
+*.pem
+*.key
+*.cert
+*.crt
+config/wazuh_indexer_ssl_certs/
